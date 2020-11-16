@@ -1,5 +1,5 @@
 {
-  "name": "recoil",
+  "name": "@keypj/recoil",
   "version": "0.1.2",
   "description": "Recoil - A state management library for React",
   "main": "cjs/recoil.js",
@@ -13,7 +13,7 @@
     "native",
     "index.d.ts"
   ],
-  "repository": "https://github.com/facebookexperimental/recoil.git",
+  "repository": "https://github.com/keypj/recoil.git",
   "license": "MIT",
   "scripts": {
     "prepare": "install-peers",
